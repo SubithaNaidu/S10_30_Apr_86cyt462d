@@ -167,7 +167,6 @@
    PORT=5000
    MONGO_URI=your_mongodb_connection_string
    JWT_SECRET=your_secret_key
-   PORT=4000
    CLOUDINARY_CLIENT_NAME=your_client_name
    CLOUDINARY_CLIENT_API=your_CLIENT_API
    CLOUDINARY_CLIENT_SECRET=your_CLIENT_SECRET
